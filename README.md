@@ -1,6 +1,10 @@
-# xylophone_app
+## Xylophone App
 
 Simple Mobile app that implemented in a part of the Complete 2021 Flutter Development Bootcamp with Dart (https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+App has basic functionality of playing audio assets via third party package dependency.
+
+![image](https://user-images.githubusercontent.com/15806575/187004978-8e9db860-9ca2-498d-bb7c-d74b40b20dd0.png)
 
 ## Getting Started
 
